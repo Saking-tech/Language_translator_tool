@@ -1,6 +1,6 @@
 import openai
 import time
-apikey = "sk-AYu6oVm9rSIez7srKbzhYeSXLhJpz0Qajp81FEkIGaT3BlbkFJZk90WfLppQG7aX6mpV5c3SUKiEV3ESTbQMsdNtO4sA"
+apikey = "API_KEY"
 # apikey = "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"
 openai.organization = "org-49qwvNPbihsNA0wsH4N1acHi"
 # openai.organization = "org-ryYSMabmTI392fgreFFbrH8k"
