@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 import openai
 
-apikey = "sk-AYu6oVm9rSIez7srKbzhYeSXLhJpz0Qajp81FEkIGaT3BlbkFJZk90WfLppQG7aX6mpV5c3SUKiEV3ESTbQMsdNtO4sA"
+apikey = "API_KEY"
 openai.organization = "org-49qwvNPbihsNA0wsH4N1acHi"
 openai.api_key = apikey
 model_engine = "gpt-4o-mini-2024-07-18"
