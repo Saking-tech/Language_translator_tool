@@ -1,7 +1,3 @@
-Here's a README file draft for your Language Translator tool project on GitHub:
-
----
-
 # Language Translator Tool
 
 ## Overview
